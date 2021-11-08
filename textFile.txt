@@ -1,3 +1,7 @@
 Heading : Biodata
 
-
+First Name : Subhram
+Last Name : Rana
+Location : Talcher
+email : srana@me.iitr.ac.in
+mob : 7978810744

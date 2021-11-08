@@ -1,4 +1,4 @@
-Heading : Biodata
+Heading : Personal and Corporate INFO
 
 First Name : Subhram
 Last Name : Rana

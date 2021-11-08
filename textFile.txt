@@ -4,4 +4,4 @@ Company Name : Razorpay
 ID : RZP1928
 email : subhram.rana@razorpay.com
 Location : Banglore
-salary : 10 rupees
+salary : 1000 rupees
